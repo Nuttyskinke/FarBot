@@ -2,16 +2,19 @@
 En discord bot der fortæller far jokes. Ja den er dårlig og det skal den også være! :D
 
 
-## KRÆVER FØLGENDE NODE PAKKER
+# Uses:
+## Opus
+[Opus](https://opus-codec.org/)
 
-discord.js
+[Opus-License](https://opus-codec.org/license/)
 
-ffmpeg-static
+## Libsodium
+[Libsodium](https://github.com/jedisct1/libsodium)
 
-@discordjs/opus
+[Libsodium-License](https://github.com/jedisct1/libsodium/blob/master/LICENSE)
 
-## ANDRE REQS
+## FFMPEG
+[FFMPEG](https://ffmpeg.org/)
 
-At du har Microsoft Helle stemmepakken installeret i Speech i stedet for Speech-OneCore
+[FFMPEG-License](https://ffmpeg.org/legal.html)
 
-Registrerings filen kan måske fikse det
